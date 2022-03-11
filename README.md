@@ -1,7 +1,7 @@
 ## Olá DevsPadauans! Sou o Prof° Wellington Cidade!!!
 
 
-<h1>Sou professor e Coordenado </h1>
+Sou professor e Coordenador
 
 <div align="center">
   <a href="https://github.com/welltecnc">
