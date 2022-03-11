@@ -1,7 +1,7 @@
 ## Olá DevsPadauans! Sou o Prof° Wellington Cidade!!!
 
 
-Sou professor e Coordenado
+<h1>Sou professor e Coordenado </h1>
 
 <div align="center">
   <a href="https://github.com/welltecnc">
@@ -16,6 +16,8 @@ Sou professor e Coordenado
   <img align="center" alt="well-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="well-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="well-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  
+
 
 </div>
   
